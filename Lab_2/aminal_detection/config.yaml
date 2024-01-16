@@ -1,0 +1,11 @@
+# Train/val/test sets
+train: '/Users/karpagapriyadhanraj/Desktop/EPITA/Computer vision/Computer_vision/Lab_2/aminal_detection/images/train'
+val: '/Users/karpagapriyadhanraj/Desktop/EPITA/Computer vision/Computer_vision/Lab_2/aminal_detection/images/validation'
+test: '/Users/karpagapriyadhanraj/Desktop/EPITA/Computer vision/Computer_vision/Lab_2/aminal_detection/images/test'
+
+# Classes
+names:
+  0: buffalo
+  1: elephant
+  2: rhino
+  3: zebra
